@@ -1,3 +1,3 @@
-# Noew renamed EZids in line with the my other EZ tools.
-Ebcdic Ascii Tls decrypter MITM packet capture and decoder is designed to help in Pen Testing. There are not many tools out there that will capture an EBCDIC session and this is a tool that I could not find.  It will also do ASCII packet capture and with some tweaking TLS/SSL.
+Now renamed eZsniff - to better define what the tool is.
+EBCDIC and ASCII decrypter for Honeypoty and AITM packet capture and decoding is designed to help both BLUE and RED Teamers. There are not many tools out there that will capture an EBCDIC session and this is a tool that I could not find.  
 Code tightened up and security checked by AI.  
